@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName="早客";
+CFBundleDisplayName="早客";
